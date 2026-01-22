@@ -107,9 +107,6 @@ python manage.py compress --force
 [更多配置介绍](/docs/config.md)  
 [集成elasticsearch](/docs/es.md)
 
-## 问题相关
-
-有任何问题欢迎提Issue,或者将问题描述发送至我邮箱 `liangliangyy#gmail.com`.我会尽快解答.推荐提交Issue方式.  
 
 ---
  ## 致大家🙋‍♀️🙋‍♂️
